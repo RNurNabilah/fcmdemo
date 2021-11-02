@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577963722102",
+    "project_id": "besqure-fcm-demo",
+    "storage_bucket": "besqure-fcm-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577963722102:android:b36d545f852eb68acf6657",
+        "android_client_info": {
+          "package_name": "com.example.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577963722102-5hkibjoij3sode2fpqk5qcghl1vt20hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjBuP7FhYyyLUCwwZwEQkeLAmnuel0a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577963722102-5hkibjoij3sode2fpqk5qcghl1vt20hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
